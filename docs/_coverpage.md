@@ -7,6 +7,7 @@
 - Simple and lightweight (~21kB gzipped)
 - No statically built html files
 - Multiple themes
+- Test
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Getting Started](#docsify)
