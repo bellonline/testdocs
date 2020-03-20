@@ -29,6 +29,7 @@ Set `coverpage` to **true**, and create a `_coverpage.md`:
 - Simple and lightweight (~21kB gzipped)
 - No statically built html files
 - Multiple themes
+- test
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
